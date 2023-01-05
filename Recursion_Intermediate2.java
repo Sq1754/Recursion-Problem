@@ -2,8 +2,8 @@
 public class Recursion_Intermediate2 {
 // Q-> Find the first and last Occurrence of an element in String
 	// example "abaacdsafaah"  elemnet = a
-	//  first occurrence at index 1
-	//  last occurrence at index 10
+	//  first occurrence of element 'a' at index 1
+	//  last occurrence of element 'a' at index 10
 	
   public static int first =-1;// we declared first as constant
   public static int last = -1;// same for last
